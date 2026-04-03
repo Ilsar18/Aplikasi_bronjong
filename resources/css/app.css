@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'MollenTrial';
+    src: url('../../public/fonts/mollen/Mollen-Regular.woff2') format('woff2'),
+         url('../../public/fonts/mollen/Mollen-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
